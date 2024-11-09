@@ -1,0 +1,5 @@
+{
+  "editor.formatOnSave": true,
+  "json.schemas": [],
+  "php.validate.executablePath": "C:/xampp/php/php.exe"
+}
